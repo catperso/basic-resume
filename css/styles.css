@@ -1,19 +1,29 @@
 .aboutme {
-
+  text-align: center;
+  font-family: sans-serif;
+  font-size: large;
+  line-height: 10px;
+  font-style: italic;
 }
 
 .education {
-
+  color: rgb(85, 129, 33);
+  font-family: sans-serif;
 }
 
 .employment {
-
+  color: rgb(0, 0, 148);
+  font-family: sans-serif;
 }
 
 .skills {
-
+  color: rgb(163, 107, 2);
+  font-family: sans-serif;
 }
 
 .important {
-  
+  font-family: serif;
+  font-weight: bold;
+  color: red;
+  font-size: large;
 }
